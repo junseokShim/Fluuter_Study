@@ -55,7 +55,7 @@ https://docs.flutter.dev/get-started/install/windows
 (예시)
 Scaffold(
     appBar : 다른 위젯, // 상단 바
-    body : 다른 위젯, // 화면 중앙에 가장 큰 면적
+    body : 다른 위젯∏, // 화면 중앙에 가장 큰 면적
     bottomNavigationBar : 다른 위젯, // 하단 바
     floatingActionButton : 다른 위젯, // 하단 화면 최상위에 있는 버튼
 )
